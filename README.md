@@ -5,6 +5,9 @@ A Postman collection of the [Brink Commerce Product API](https://docs.brinkcomme
 You'll need to create a Postman Environment with the following variables:
 
  * `host`
- * `api` 
+ * `productApi`
+ * `stockApiApi` 
+ * `productId` 
+ * `variantId`
 
 The authentication header is set in the Collection itself as a global parameter.
