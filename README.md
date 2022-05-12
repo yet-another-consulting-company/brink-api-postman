@@ -6,7 +6,7 @@ You'll need to create a Postman Environment with the following variables:
 
  * `host`
  * `productApi`
- * `stockApiApi` 
+ * `stockApi` 
  * `productId` 
  * `variantId`
 
